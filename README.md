@@ -1,2 +1,2 @@
 # drive-style
-Share Stylesheets for Mathrix Drive
+Shared Stylesheets for Mathrix Drive
