@@ -1,0 +1,20 @@
+{
+  "name": "drive-style",
+  "version": "0.0.1",
+  "description": "Shared stylesheets for Mathrix Drive",
+  "keywords": [
+    "scss",
+    "mathrix",
+    "style",
+    "stylesheet"
+  ],
+  "homepage": "https://github.com/mathrix-education/drive-style",
+  "bugs": {
+    "url": "https://github.com/mathrix-education/drive-style/issues"
+  },
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/mathrix-education/drive-style"
+  }
+}
