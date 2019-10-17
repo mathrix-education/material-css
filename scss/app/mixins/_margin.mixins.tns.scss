@@ -1,0 +1,35 @@
+@import "../variables.tns";
+
+@mixin margin($i) {
+  margin: $i*$base-dp;
+}
+
+@mixin margin-top($i) {
+  margin-top: $i*$base-dp;
+}
+
+@mixin margin-bottom($i) {
+  margin-bottom: $i*$base-dp;
+}
+
+@mixin margin-left($i) {
+  margin-left: $i*$base-dp;
+}
+
+@mixin margin-right($i) {
+  margin-right: $i*$base-dp;
+}
+
+@mixin margin-y($i) {
+  @include margin-top($i);
+  @include margin-bottom($i);
+}
+
+@mixin margin-x($i) {
+  @include margin-left($i);
+  @include margin-right($i);
+}
+
+@mixin margin-auto {
+  margin: auto;
+}

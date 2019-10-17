@@ -1,0 +1,25 @@
+@import "./mixins/_margin.mixins.tns.scss";
+
+.material-icon {
+  font-family: "Material Icons", "MaterialIcons-Regular";
+  font-size: 24; // default
+}
+
+
+// 4 default sizes to fit Material design conventions
+// source: https://google.github.io/material-design-icons/#icon-font-for-the-web
+.material-icon.md-18 {
+  font-size: 18;
+}
+
+.material-icon.md-24 {
+  font-size: 24;
+}
+
+.material-icon.md-36 {
+  font-size: 36;
+}
+
+.material-icon.md-48 {
+  font-size: 48;
+}
