@@ -1,4 +1,4 @@
-@import "../web.variables";
+@import "../variables";
 
 @mixin margin($i) {
   margin: $i*$base-dp !important;
