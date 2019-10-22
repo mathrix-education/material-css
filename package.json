@@ -1,5 +1,5 @@
 {
-  "name": "@mathrix-education/drive-style",
+  "name": "@mathrix-education/material-css",
   "version": "0.2.0",
   "description": "Shared stylesheets for Mathrix Drive",
   "keywords": [
@@ -8,13 +8,13 @@
     "style",
     "stylesheet"
   ],
-  "homepage": "https://github.com/mathrix-education/drive-style",
+  "homepage": "https://github.com/mathrix-education/material-css",
   "bugs": {
-    "url": "https://github.com/mathrix-education/drive-style/issues"
+    "url": "https://github.com/mathrix-education/material-css/issues"
   },
   "license": "UNLICENSED",
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com/mathrix-education/drive-style"
+    "url": "ssh://git@github.com/mathrix-education/material-css"
   }
 }
