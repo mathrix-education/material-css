@@ -16,5 +16,6 @@ Make a material dialog full screen
 .invisible-dialog {
   .mat-dialog-container {
     background: none;
+    padding: 0;
   }
 }
